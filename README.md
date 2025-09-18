@@ -40,5 +40,4 @@ python examples/run_roulette.py --n-spins 10000 --bet red --stake 1
 - Visualisations claires
 - Lien explicite avec la finance de marché (risque et pricing)
 
----
-*Fais-toi plaisir, mais code propre et reproductible : c'est ce qui plaît aux recruteurs.*
+
